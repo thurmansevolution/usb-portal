@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Android asks the user which app to use. No device is shared without explicit selection. -->
+    <usb-device />
+</resources>

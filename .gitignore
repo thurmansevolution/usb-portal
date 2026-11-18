@@ -1,0 +1,33 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.venv/
+*.so
+/.backups/
+
+# Workspace and account data are local, not project sources.
+/.agents/
+/.codex/
+/.aws/
+/.ssh/
+/.zenflow/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*.log
+*.pcap
+*.pcapng
+usb-portal.txt
+
+# Local deployment reports, measurements, and generated validation screenshots.
+/docs/*-20??-??-??.md
+/docs/measurements/
+/docs/images/
